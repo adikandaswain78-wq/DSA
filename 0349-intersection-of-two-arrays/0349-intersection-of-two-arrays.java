@@ -15,6 +15,7 @@ class Solution {
 
             }
             i++;
+            j++;
             }
 
 
