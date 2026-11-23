@@ -1,6 +1,4 @@
-
 import java.util.Arrays;
-
 public class union {
 
     public int[] unionArray(int[] nums1, int[] nums2) {
